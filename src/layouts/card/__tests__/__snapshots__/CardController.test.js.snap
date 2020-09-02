@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CardController/> renders CardController component 1`] = `<styled.div />`;

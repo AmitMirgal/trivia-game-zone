@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home/> renders Home component 1`] = `
+<Home>
+  <styled.div>
+    <div
+      className="sc-AxirZ MSAgO"
+    >
+      <styled.h1>
+        <h1
+          className="sc-AxiKw fTyEPL"
+        >
+          Welcome to the Trivia Challenge!
+        </h1>
+      </styled.h1>
+      <styled.p>
+        <p
+          className="sc-AxhCb egbyGX"
+        >
+          You will be presented with 10 True or False question. can you score 100%?
+        </p>
+      </styled.p>
+      <ForwardRef(SvgArrow)>
+        <svg>
+          arrow.svg
+        </svg>
+      </ForwardRef(SvgArrow)>
+      <PrimaryButton
+        label="Begin"
+        onClick={[Function]}
+        primary={true}
+      >
+        <styled.button
+          onClick={[Function]}
+          primary={true}
+        >
+          <button
+            className="sc-AxjAm dtKtzu"
+            onClick={[Function]}
+          >
+            Begin
+          </button>
+        </styled.button>
+      </PrimaryButton>
+    </div>
+  </styled.div>
+</Home>
+`;

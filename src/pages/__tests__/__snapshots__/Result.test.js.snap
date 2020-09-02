@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Result/> renders Result component 1`] = `
+<styled.div>
+  <styled.h1>
+    You scored 0/10
+  </styled.h1>
+  <Card>
+    <CardContent />
+    <CardController>
+      <PrimaryButton
+        label="Play Again"
+        onClick={[Function]}
+        primary={true}
+      />
+    </CardController>
+  </Card>
+</styled.div>
+`;
