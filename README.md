@@ -36,15 +36,15 @@ Edit, build and debug with ease
 
 **Note:** Run the following commands in the \root\ folder to see the results.
 
-##### `npm start`
+### `npm start`
 
 > it will run the development server on your local machine
 
-##### `npm test`
+### `npm test`
 
 > boolean check if unit tests all pass - uses jest and enzyme
 
-##### `npm run storybook`
+### `npm run storybook`
 
 > it will run the development server on your local machine, and give you a URL to browse some sample stories.
 
